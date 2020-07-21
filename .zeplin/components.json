@@ -1,0 +1,21 @@
+{
+    "plugins": [
+        {
+            "name": "zeplin-cli-connect-plugin-vue"
+        }
+    ],
+    "projects": [
+        "5f0f2047310c8b8306bf20b8"
+    ],
+    "styleguides": [
+        "5ef6502dba5fde6d05ab29c9"
+    ],
+    "components": [
+        {
+            "path": "src/components/Button.vue",
+            "zeplinNames": [
+                "Valtech/Button/Primary"
+            ]
+        }
+    ]
+}
