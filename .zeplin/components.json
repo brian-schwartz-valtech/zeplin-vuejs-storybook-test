@@ -23,7 +23,10 @@
             "zeplinNames": [
                 "Valtech/Button/Primary",
                 "CTA/Primary/Default"
-            ]
+            ],
+            "confluence": {
+                "urlPath": "display/COH/Chanel+HUB+GCP+Setup"
+            }
         }
     ],
     "github": {
