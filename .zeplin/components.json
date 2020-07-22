@@ -28,5 +28,12 @@
     ],
     "github": {
         "repository": "brian-schwartz-valtech/zeplin-vuejs-storybook-test"
-    }
+    },
+    "links": [
+        {
+            "name": "Confluence",
+            "type": "confluence",
+            "url": "https://confluence.valtech.com/"
+        }
+    ]
 }
