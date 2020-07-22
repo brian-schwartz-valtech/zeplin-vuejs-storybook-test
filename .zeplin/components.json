@@ -12,7 +12,7 @@
     ],
     "components": [
         {
-            "path": "src/components/Button.vue",
+            "path": "src/components/Button/Button.vue",
             "zeplinNames": [
                 "Valtech/Button/Primary"
             ]
