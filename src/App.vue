@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <MyButton>New Text</MyButton>
+    <MyButton buttonLabel="My Button"/>
     <br />
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
@@ -8,8 +8,8 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-import MyButton from './components/Button.vue';
+import HelloWorld from './components/HelloWorld/HelloWorld.vue'
+import MyButton from './components/Button/Button.vue';
 
 export default {
   name: 'App',

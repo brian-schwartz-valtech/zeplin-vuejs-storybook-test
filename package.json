@@ -10,12 +10,15 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
+    "@vue/cli-plugin-unit-jest": "^4.4.6",
+    "@vue/test-utils": "^1.0.3",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
   },
   "devDependencies": {
     "@babel/core": "^7.10.5",
     "@storybook/addon-actions": "^5.3.19",
+    "@storybook/addon-knobs": "^5.3.19",
     "@storybook/addon-links": "^5.3.19",
     "@storybook/addons": "^5.3.19",
     "@storybook/vue": "^5.3.19",
