@@ -2,10 +2,17 @@
     "plugins": [
         {
             "name": "zeplin-cli-connect-plugin-vue"
+        },
+        {
+            "name": "@zeplin/cli-connect-storybook-plugin",
+            "config": {
+                "url": "https://fervent-ramanujan-761853.netlify.app/"
+            }
         }
     ],
     "projects": [
-        "5f0f2047310c8b8306bf20b8"
+        "5f0f2047310c8b8306bf20b8",
+        "5f170a36584eca849ee3bbf3"
     ],
     "styleguides": [
         "5ef6502dba5fde6d05ab29c9"
@@ -14,8 +21,12 @@
         {
             "path": "src/components/Button/Button.vue",
             "zeplinNames": [
-                "Valtech/Button/Primary"
+                "Valtech/Button/Primary",
+                "CTA/Primary/Default"
             ]
         }
-    ]
+    ],
+    "github": {
+        "repository": "brian-schwartz-valtech/zeplin-vuejs-storybook-test"
+    }
 }
