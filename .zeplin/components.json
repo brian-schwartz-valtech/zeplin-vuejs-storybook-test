@@ -26,6 +26,9 @@
             ],
             "confluence": {
                 "urlPath": "display/COH/Chanel+HUB+GCP+Setup"
+            },
+            "jira": {
+                "urlPath": "browse/HWSR-139"
             }
         }
     ],
@@ -37,6 +40,11 @@
             "name": "Confluence",
             "type": "confluence",
             "url": "https://confluence.valtech.com/"
+        },
+        {
+            "name": "JIRA",
+            "type": "jira",
+            "url": "https://jira.valtech.com/"
         }
     ]
 }
