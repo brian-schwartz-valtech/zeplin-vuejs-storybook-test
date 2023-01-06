@@ -10,7 +10,7 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
-    "@vue/cli-plugin-unit-jest": "^4.4.6",
+    "@vue/cli-plugin-unit-jest": "^5.0.8",
     "@vue/test-utils": "^1.0.3",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
@@ -24,7 +24,7 @@
     "@storybook/vue": "^5.3.19",
     "@vue/cli-plugin-babel": "~4.4.0",
     "@vue/cli-plugin-eslint": "~4.4.0",
-    "@vue/cli-service": "~4.4.0",
+    "@vue/cli-service": "~5.0.8",
     "@zeplin/cli": "^1.0.4",
     "babel-eslint": "^10.1.0",
     "babel-loader": "^8.1.0",
